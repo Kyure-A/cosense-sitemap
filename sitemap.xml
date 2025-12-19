@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cosense.kyre.moe/kyre</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-19</lastmod>
   </url>
   <url>
     <loc>https://cosense.kyre.moe/tags</loc>
-    <lastmod>2025-06-13</lastmod>
+    <lastmod>2025-12-19</lastmod>
   </url>
   <url>
     <loc>https://cosense.kyre.moe/settings</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2025-12-19</lastmod>
   </url>
   <url>
     <loc>https://cosense.kyre.moe/%E6%97%A5%E8%A8%98</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-19</lastmod>
   </url>
   <url>
     <loc>https://cosense.kyre.moe/books</loc>
@@ -22,22 +22,82 @@
   </url>
   <url>
     <loc>https://cosense.kyre.moe/Big%20Kyure_A%20is%20watching%20you...</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-19</lastmod>
   </url>
   <url>
-    <loc>https://cosense.kyre.moe/2025%20%E3%83%99%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4</loc>
-    <lastmod>2025-12-18</lastmod>
+    <loc>https://cosense.kyre.moe/2025-12-19</loc>
+    <lastmod>2025-12-19</lastmod>
   </url>
   <url>
-    <loc>https://cosense.kyre.moe/%E6%97%A5%E7%94%A8%E5%93%81%20202512</loc>
-    <lastmod>2025-12-18</lastmod>
+    <loc>https://cosense.kyre.moe/UserScripts%20%E9%96%A2%E9%80%A3</loc>
+    <lastmod>2025-12-19</lastmod>
   </url>
   <url>
-    <loc>https://cosense.kyre.moe/2025-12-18</loc>
-    <lastmod>2025-12-18</lastmod>
+    <loc>https://cosense.kyre.moe/js%40checkbox</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/js%40superscript-num</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/css%40home</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/css%40pincard</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/css%40books</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/css%40hash-tag</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/css%40access-counter</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/css%40image</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/css%40monokai-code-block</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/.emacs.d</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/SANODESK</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/%E4%B8%96%E6%B8%A1%E3%82%8A%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9</loc>
+    <lastmod>2025-12-19</lastmod>
   </url>
   <url>
     <loc>https://cosense.kyre.moe/vim-jp%20%E3%83%A9%E3%82%B8%E3%82%AA</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/2025%20%E3%83%99%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/AMVR%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/2025-12-18</loc>
+    <lastmod>2025-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/%E6%97%A5%E7%94%A8%E5%93%81%20202512</loc>
     <lastmod>2025-12-18</lastmod>
   </url>
   <url>
@@ -150,10 +210,6 @@
   </url>
   <url>
     <loc>https://cosense.kyre.moe/Alacritty</loc>
-    <lastmod>2025-12-13</lastmod>
-  </url>
-  <url>
-    <loc>https://cosense.kyre.moe/%E4%B8%96%E6%B8%A1%E3%82%8A%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9</loc>
     <lastmod>2025-12-13</lastmod>
   </url>
   <url>
