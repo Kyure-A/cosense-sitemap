@@ -3,7 +3,7 @@ import fs from "node:fs/promises";
 const PROJECT = "kyre";
 const BASE_URL = "https://cosense.kyre.moe";
 const OUTPUT = "sitemap.xml";
-const LIMIT = 1000;
+const LIMIT = 2000;
 
 async function fetchAllPages(project) {
     const pages = [];
