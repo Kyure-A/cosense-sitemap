@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cosense.kyre.moe/kyre</loc>
-    <lastmod>2026-02-23</lastmod>
+    <lastmod>2026-03-10</lastmod>
   </url>
   <url>
     <loc>https://cosense.kyre.moe/settings</loc>
-    <lastmod>2026-03-08</lastmod>
+    <lastmod>2026-03-10</lastmod>
   </url>
   <url>
     <loc>https://cosense.kyre.moe/%E6%97%A5%E8%A8%98</loc>
@@ -21,11 +21,31 @@
     <lastmod>2025-12-19</lastmod>
   </url>
   <url>
-    <loc>https://cosense.kyre.moe/%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%8F%E3%82%AF%C3%97%E3%82%B1%E3%82%A4%E3%83%A4%E3%82%AF</loc>
-    <lastmod>2026-03-09</lastmod>
+    <loc>https://cosense.kyre.moe/2026-03-10</loc>
+    <lastmod>2026-03-10</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/Ventoy</loc>
+    <lastmod>2026-03-10</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/2026-04-05</loc>
+    <lastmod>2026-03-10</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/2026-04-04</loc>
+    <lastmod>2026-03-10</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/%E5%BC%95%E8%B6%8A%E3%82%8C%E3%82%93%E3%82%89%E3%81%8F%E5%B8%B3</loc>
+    <lastmod>2026-03-10</lastmod>
   </url>
   <url>
     <loc>https://cosense.kyre.moe/2026-03-09</loc>
+    <lastmod>2026-03-09</lastmod>
+  </url>
+  <url>
+    <loc>https://cosense.kyre.moe/%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%8F%E3%82%AF%C3%97%E3%82%B1%E3%82%A4%E3%83%A4%E3%82%AF</loc>
     <lastmod>2026-03-09</lastmod>
   </url>
   <url>
